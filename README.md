@@ -5,9 +5,9 @@
 </ul>
 
 <ul>
-  Nama : Syamsul Hadi Permana
-  NIM : 23552011332
-  Kelas : TIF RP 23 CNS B
+  <li>Nama : Syamsul Hadi Permana</li>
+  <li>NIM : 23552011332</li>
+  <li>Kelas : TIF RP 23 CNS B</li>
 </ul>
 
 # Hasil Screenshot
