@@ -12,3 +12,4 @@
 
 # Hasil Screenshot
 Berikut hasil screenshotnya:
+![Image] screencapture-file-C-xampp-htdocs-latihanbootstrap-index-html-2025-10-21-12_01_50.png
